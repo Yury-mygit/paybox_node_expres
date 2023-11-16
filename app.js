@@ -6,8 +6,8 @@ const axios = require('axios');
 const crypto = require('crypto');
 const qs = require('qs')
 
-let pg_merchant_id = 550529;
-let secret_key = 'YCsCfLaaNleQYDQx';
+let pg_merchant_id = _______;
+let secret_key = '__________';
 
 let request = {
     pg_order_id: "23",
